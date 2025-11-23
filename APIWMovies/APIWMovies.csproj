@@ -37,7 +37,6 @@
     <Folder Include="DAL\Models\Dtos\" />
     <Folder Include="Migrations\" />
     <Folder Include="MoviesMapper\" />
-    <Folder Include="Repository\IRepository\" />
     <Folder Include="Services\Iservices\" />
   </ItemGroup>
 
