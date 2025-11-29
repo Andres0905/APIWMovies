@@ -12,6 +12,6 @@ namespace APIWMovies.DAL.Models.Dtos
 
         public DateTime CreatedDate { get; set; }
 
-        public DateTime ModifiedDate { get; set; }
+        public DateTime? ModifiedDate { get; set; }
     }
 }

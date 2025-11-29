@@ -13,5 +13,10 @@ namespace APIWMovies.DAL
         // Definimos el DbSet para la entidad Category
 
         public DbSet<Category> Categories { get; set; }
+
+
+        // Definimos el DbSet para la entidad Movie
+        public DbSet<Movie> Movies { get; set; }
+
     }
 }
